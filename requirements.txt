@@ -1,0 +1,5 @@
+wxPython
+pytesseract
+Pillow
+opencv-python
+ftfy
