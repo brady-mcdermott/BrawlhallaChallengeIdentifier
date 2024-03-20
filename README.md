@@ -1,6 +1,6 @@
-# Brawlhalla Challenge Extractor
+# Brawlhalla Challenge Identifier
 
-The Brawlhalla Challenge Extractor is a desktop application designed to help players identify the best characters to complete specific challenges in the game Brawlhalla. It uses OCR (Optical Character Recognition) to extract challenge descriptions from screenshots and recommends characters based on their abilities to meet these challenges.
+The Brawlhalla Challenge Identifier is a desktop application designed to help players identify the best characters to complete specific challenges in the game Brawlhalla. It uses OCR (Optical Character Recognition) to extract challenge descriptions from screenshots and recommends characters based on their abilities to meet these challenges.
 
 ## Features
 
@@ -24,8 +24,8 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/brawlhalla-challenge-extractor.git
-cd brawlhalla-challenge-extractor
+git clone https://github.com/yourusername/brawlhalla-challenge-Identifier.git
+cd brawlhalla-challenge-Identifier
 ```
 
 2. Install the required Python packages:
@@ -63,11 +63,11 @@ Below is an example of a Brawlhalla challenge screenshot that the application ca
 
 <img src="images/week1.png" alt="Week 1 Challenges Image" width="600">
 
-This screenshot demonstrates the kind of image you should upload to the Brawlhalla Challenge Extractor to identify the best characters for completing these challenges.
+This screenshot demonstrates the kind of image you should upload to the Brawlhalla Challenge Identifier to identify the best characters for completing these challenges.
 
 ## Contributing
 
-Contributions to the Brawlhalla Challenge Extractor are welcome. Please ensure to update tests as appropriate.
+Contributions to the Brawlhalla Challenge Identifier are welcome. Please ensure to update tests as appropriate.
 
 ## License
 
